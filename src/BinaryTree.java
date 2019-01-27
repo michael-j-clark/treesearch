@@ -1,3 +1,6 @@
+/**
+ * https://www.utd.edu/~dheroy/4331code/book/BinaryTree.java
+ */
 public class BinaryTree {
     private TreeNode root;
     private int size = 0;
